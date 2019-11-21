@@ -1,0 +1,19 @@
+The Plan
+--------
+1.  Get RSS Feeds of popular news processed everyday and store them by day in a daily format
+2.  Get RSS Feed of NASDAQ Stock prices everyday
+3.  Map changes of NASDAQ stocks to popular news
+4.  Decipher with sentiment analysis what is negativley or positivley said about what
+5.  Save correlation with each day
+6.  Create correlation map with reoccurence (seeing if the same trend happens again) held in a separate map
+7.  Rank each correctlation by time it appears to the time it happens again
+8.  See if reoccuring patterns continue to occur and predict based on news traffic what is likley to happen
+9.  Store percentages of predicted vs actual
+10. Watch trend and see if a based off news can predict trend for days 
+11. See if the difference is enough to make a margin (> 1.5%)
+12. Create simulation to see if trade predictions make sense in current market
+13. Create projected growth from a small principal and get projected profit and margin
+14. Hook up to live system and see if proper actions are taken
+15. Test with small amount of funds and quirks
+16. Present and get funding/backers/connect with people to see how to grow it
+17. Profit
