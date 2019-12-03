@@ -1,0 +1,2 @@
+Inside spiders dir: scrapy crawl bbc -o bbc.jl
+Inside spiders dir: scrapy crawl bbc
